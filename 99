@@ -1,15 +1,4 @@
-              🚀 SOURIYA — Skidding is for losers 🚀
-----------------------------------------------------------------
-   One line loads all supported games:
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/Devvzn/DevWare/refs/heads/main/DevMain"))()
-----------------------------------------------------------------
-   Supported:
-   • 99 Nights In The Forest
-   • MX World (Farm & Normal Map)
-   • Fisch (Auto Farm and more)
-----------------------------------------------------------------
-   Discord: https://discord.gg/cuYwaQeHT5
-----------------------------------------------------------------
+
 ]]
 
 if not game:IsLoaded() then game.Loaded:Wait() end
