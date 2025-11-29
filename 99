@@ -40,7 +40,7 @@ notify("Souriya Loader", "Detected: "..gameName, 5)
 if placeId == 126509999114328 then
 	print("[Souriya] Loading 99 Nights In The Forest...")
 	notify("Souriya", "Loading 99 Nights In The Forest…", 6)
-	safeLoad("https://raw.githubusercontent.com/Devvzn/99nights/refs/heads/main/main")
+	safeLoad("https://raw.githubusercontent.com/applesbite/auto/refs/heads/main/99")
 
 elseif placeId == 135155039067698 or placeId == 97241995358432 then
 	print("[Souriya] Loading MX World...")
